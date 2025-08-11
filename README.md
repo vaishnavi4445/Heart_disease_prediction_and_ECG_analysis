@@ -12,10 +12,6 @@ This project is part of my internship (Day 5 task) and focuses on predicting hea
    - Contains ECG signal data for multiple patients.
    - Used for visualizing heart activity and identifying patterns.
 
-3. **ecg_data**  
-   - Supplementary ECG dataset 
-   - Used for advanced signal analysis and visualization.
-
 ## 🧠 Objectives
 
 - Predict heart disease using Decision Tree and Random Forest classifiers.
